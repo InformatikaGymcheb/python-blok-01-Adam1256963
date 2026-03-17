@@ -1,2 +1,2 @@
-X = 18
+vek = 18
 print(Je mi X let)
